@@ -1,7 +1,7 @@
 /**
 * 刷新青龙环境变量
 * @param {*} ql_port 5700
-* @param {*} ql_port xxx
+* @param {*} ql_client_id xxx
 * @param {*} ql_client_secret xxx
 */
 async function refreshQingLong(userCookie, ckName) {
